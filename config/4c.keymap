@@ -55,7 +55,7 @@
 
         RSE {
             bindings = <
-&kp GRAVE    &trans    &trans      &trans     &trans                &trans                   &trans      &trans        &trans     &kp MINUS  &kp EQUAL     &kp DELETE
+&kp GRAVE    &trans    &trans      &trans     &trans   &kp LC(PRINTSCREEN)                   &trans      &trans        &trans     &kp MINUS  &kp EQUAL     &kp DELETE
    &trans    &trans    &kp UP      &trans     &trans      &kp LEFT_BRACKET        &kp RIGHT_BRACKET      &trans        &trans        &trans     &trans  &kp BACKSLASH
    &trans  &kp LEFT  &kp DOWN   &kp RIGHT     &trans        &kp LEFT_BRACE          &kp RIGHT_BRACE  &kp C_PREV      &kp C_PP    &kp C_NEXT     &trans         &trans
    &trans    &trans    &trans  &codeFence  &kp MINUS  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS   &kp EQUAL  &kp C_VOL_DN  &kp C_VOL_UP     &trans         &trans
