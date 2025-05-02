@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: zmk
-      url-base: https://github.com/compressionKeyboards
+      url-base: https://github.com/nezbyte
   projects:
     - name: zmk
       remote: zmk
